@@ -1,5 +1,11 @@
 # @odd-even-test/odd
 
+## 1.0.2
+
+### Patch Changes
+
+- 0b29b7a: minor bupm
+
 ## 1.0.1
 
 ### Patch Changes
