@@ -1,6 +1,11 @@
 {
   "name": "@odd-even-test/odd",
   "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metoant/odd-even-test.git",
+    "directory": "packages/odd"
+  },
   "description": "Returns a random odd number",
   "main": "src/index.js",
   "files": [
