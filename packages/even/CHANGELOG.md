@@ -1,5 +1,11 @@
 # @odd-even-test/even
 
+## 1.0.0
+
+### Major Changes
+
+- 98fa120: first major version okaaay
+
 ## 0.1.0
 
 ### Minor Changes
