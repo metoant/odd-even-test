@@ -1,0 +1,12 @@
+{
+  "name": "@odd-even-test/even",
+  "version": "0.0.0",
+  "description": "Returns a random even number",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
