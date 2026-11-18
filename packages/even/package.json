@@ -1,6 +1,6 @@
 {
   "name": "@odd-even-test/even",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns a random even number",
   "main": "src/index.js",
   "files": [

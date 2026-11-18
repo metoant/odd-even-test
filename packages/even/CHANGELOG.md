@@ -1,5 +1,11 @@
 # @odd-even-test/even
 
+## 1.0.1
+
+### Patch Changes
+
+- 188ec9a: test patch
+
 ## 1.0.0
 
 ### Major Changes
